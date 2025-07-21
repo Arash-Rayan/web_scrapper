@@ -1,0 +1,9 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Data folders
+data/
+.DS_Store  # (Mac OS metadata, optional but recommended)
+__pycache__/  # Python cache files
+*.py[cod]  # More Python cache files
